@@ -1,0 +1,7 @@
+loc	long	lat
+Beijing	116.41	39.90
+Wuhan	114.30	30.58
+Guangzhou	113.28	23.125
+Shanghai	121.47	31.23
+Xian	108.95	34.26
+Changsha	112.47	31.23	

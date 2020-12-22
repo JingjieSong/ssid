@@ -1,0 +1,10 @@
+Aeromonas enteropelogenes
+Enterobacter cloacae
+Aeromonas caviae
+Escherichia coli
+Klebsiella pneumoniae
+Acinetobacter baumannii
+Shigella flexneri
+Aeromonas veronii
+Salmonella enterica
+Aeromonas hydrophila
