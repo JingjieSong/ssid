@@ -10,7 +10,8 @@ app_ui <- function(request) {
     golem_add_external_resources(),
     # List the first level UI elements here 
     fluidPage(
-      h1("ssid")
+      h1("SSID: a shiny app for searching strain information database"),
+      mod_search_module_ui("search_module_ui_1")
     )
   )
 }
